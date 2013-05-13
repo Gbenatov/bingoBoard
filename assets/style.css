@@ -1,0 +1,30 @@
+title {
+	font-family: Tahoma; font-size: 18 px;
+}
+#bingocell{
+	background-color: green; 
+	border: 0;
+}
+th {
+	color: yellow;
+	border-width: 0;
+	padding: 40px;
+}
+.completed {
+	background-color: blue;
+}
+
+td {
+	padding: 30px;
+	border-style:solid;
+	border-width:1px;
+	position: relative;
+	
+
+	
+}
+#page{
+margin: 0 auto;
+width: 700px;
+
+}
